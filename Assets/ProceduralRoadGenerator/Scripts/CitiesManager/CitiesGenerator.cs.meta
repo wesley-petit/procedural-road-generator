@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a1e97bca281aeac4cbe17cbcb11c90c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cityParent: {instanceID: 0}
+  - assetVille: {fileID: 2705832224096627674, guid: 991ec91d6fdc8ab419b9afb71f63a5f8, type: 3}
+  - assetVillage: {fileID: -47354495402594496, guid: da0a5ace308a7704ab318c74be3bd07c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
